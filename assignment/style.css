@@ -1,19 +1,25 @@
 /* Give your page a fun background color */
 body {
     background-color: lightblue;
-  } /* added background color
+  } /* added background color */
 
 /* Make the header and footer a different color from the background */
 footer {
     background-color: blue;
-} /* changed footer to different color than body, darker blue
+} /* changed footer to different color than body, darker blue */
 
 /* Align the h1 containing your name in the center of the header*/
 h1 {
     text-align: center;
-  }
+  } /* centered h1*/ 
 
 /* Make your p tag a different color and italic */
+p {
+    background-color: blueviolet;
+    font-size: 50px; /* changed size for fun */
+    font-style: italic; /* made italic */
+    direction: rtl; /* changed side for fun */
+}
 
 /* Put a border around your image */
 
