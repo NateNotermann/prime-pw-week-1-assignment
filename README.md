@@ -11,6 +11,7 @@ For the assignment this week, you will practice using the tools you saw in the v
 You're going to:
 
 * use git to fork/clone a repository (aka repo) from GitHub and get your work published back to your GitHub account
+//done
 * set up files and connect them
 * edit the HTML and CSS
 * test your work in the browser
