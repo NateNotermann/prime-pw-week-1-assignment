@@ -1,21 +1,28 @@
 # Type your responses on a new line
 
 # 1 - What is the command for listing the files in the current folder (directory)?
-
+command is "ls" 
 # 2 - What is the command for changing directories?
-
+command is "cd" to go "into" a directory
 # 3 - What is the command for going "up" a folder (to a parent directory)?
-
+command is "cd .." for going up a directory 
 # 4 - What is a quick way to create a new folder?
-
+command to create a new folder is "mkdir"
 # 5 - What output would you expect when you run the command 'ls' in an empty folder? What about a folder containing files?
-
+the terminal would not output anything. it would just go to a new line. 
 # 6 - What is a quick way to create a new file?
-
+comand is "touch" then file name and file type.
+example: "touch hello-world.html"
 # 7 - Run 'git --version' in your terminal. What is the output?
-
+git version 2.15.0
 # 8 - Why would you run the command 'git status'?
-
+to see if any files were changed.
+To see if you "add .", "git commit -m" or "git push origin main"  correctly. Will tell you numbers of commits I also believe.
 # 9 - What does the command 'git add .' do?
-
+command adds all new or changed file to the git "staging area" for upload/push.
+Just learned, "git add ." specifically stages/adds ALL new or changed file. 
+Other options are "git add <path> and "git add -p". No idea how to use them but, but know there is a difference :parent
 # 10 - What is the command to push your committed changes to your repo on GitHub?
+command is "git push origin main"
+was told origin main is important. Github does use other things different than "main", but we should use "main"
+baba booey
