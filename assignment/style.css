@@ -4,6 +4,9 @@ body {
   } /* added background color
 
 /* Make the header and footer a different color from the background */
+footer {
+    background-color: blue;
+} /* changed footer to different color than body, darker blue
 
 /* Align the h1 containing your name in the center of the header*/
 
