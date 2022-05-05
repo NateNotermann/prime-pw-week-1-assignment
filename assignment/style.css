@@ -11,16 +11,24 @@ footer {
 /* Align the h1 containing your name in the center of the header*/
 h1 {
     text-align: center;
-  } /* centered h1*/ 
+} /* centered h1*/   
 
-/* Make your p tag a different color and italic */
+ul {
+    font-size: 20px; /* changed font for fun */
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif; /* changed font family of list */
+}
+
+/* Make your p tag a different color and italic */ /*check and check */
 p {
-    background-color: blueviolet;
+    background-color: blueviolet; /*changed  p color */
     font-size: 50px; /* changed size for fun */
     font-style: italic; /* made italic */
     direction: rtl; /* changed side for fun */
 }
 
 /* Put a border around your image */
+img {
+    border: 10px solid blue; /* added border, made it 10px, made it blue */
+  }
 
-/* Change the font-family of your list */
+/* Change the font-family of your list */ /* check - see above */
