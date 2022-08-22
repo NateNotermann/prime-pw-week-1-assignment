@@ -1,6 +1,6 @@
 console.log( "hello world" );
 alert ( "Hello Prime!");
-// not gonna lie, I got cocky and was just messing around with stuff..
+// just messing around with stuff below..
 
 let TheAnswerToTheultimateQuestionOflifeTheUniverseAndEverythingIs = 42;
 console.log( "The answer to the ultimate question of life, the universe and everything is: ", TheAnswerToTheultimateQuestionOflifeTheUniverseAndEverythingIs ); 
